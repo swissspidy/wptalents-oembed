@@ -1,0 +1,22 @@
+{
+  "name"       : "swissspidy/wptalents-oembed",
+  "description": "WordPress plugin that adds oEmbed support for WP Talents",
+  "keywords"   : [
+    "wordpress",
+    "plugin",
+    "wptalents",
+    "oembed"
+  ],
+  "type"       : "wordpress-plugin",
+  "homepage"   : "https://github.com/swissspidy/wptalents-oembed",
+  "authors"    : [
+    {
+      "name"    : "Pascal Birchler",
+      "email"   : "contact@spinpress.com",
+      "homepage": "https://spinpress.com/"
+    }
+  ],
+  "support"    : {
+    "issues": "https://github.com/swissspidy/wptalents-oembed/issues"
+  }
+}
