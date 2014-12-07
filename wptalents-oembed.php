@@ -12,4 +12,4 @@ Contributors: swissspidy
 defined( 'ABSPATH' ) or die();
 
 // Add oEmbed provider
-wp_oembed_add_provider( 'http://wptalents.com/*', 'http://wptalents.com/api/oembed' );
+wp_oembed_add_provider( 'https://wptalents.com/*', 'https://wptalents.com/api/oembed' );
